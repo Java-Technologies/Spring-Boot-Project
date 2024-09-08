@@ -1,4 +1,4 @@
-This is a simple spring boot project with web , data JPA and Lombok. Will be adding service code for product and order service.
+This is a simple spring boot project with web , data JPA and Lombok.
 
 Use postman to push values to DB : 
 
